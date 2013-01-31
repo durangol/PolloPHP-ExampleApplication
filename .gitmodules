@@ -1,0 +1,3 @@
+[submodule "library/Pollo"]
+	path = library/Pollo
+	url = git@github.com:durangol/Pollo.git
